@@ -51,7 +51,7 @@ const Home = () => {
             <div className="absolute inset-0 bg-purple-600/5 z-0" />
             
             <img 
-              src="/ashutosh.jpg" 
+              src="/ashutosh1.jpg" 
               alt="Ashutosh Kumar Professional" 
               className="w-full h-full object-cover relative z-10"
               style={{
